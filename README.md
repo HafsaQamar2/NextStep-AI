@@ -2,15 +2,7 @@
 
 Career guidance for Pakistani students. A student shares marks and interests, then sees career fields, universities, and scholarships that fit, with an AI counselor for the questions that follow.
 
-## Team
-
-| Name | Role |
-| --- | --- |
-| Alisha Javed | Frontend |
-| Qandeel Fatima | Backend |
-| Hifsa Qamar | Frontend and UI/UX |
-
-This is a shared project. Hifsa's part is the interface and the front page. The product is not a solo build.
+The interface and front page are my part of the product. The application code lives in the team repository: [qandeel47/NextStep_AI](https://github.com/qandeel47/NextStep_AI).
 
 ## What the product does
 
@@ -27,4 +19,10 @@ The pitch deck describes a working full-stack MVP: a REST API, Django admin for 
 - `preview.png` — the front page
 - `ppt/Nextstep_AI.pdf` — the project presentation
 
-The application source is not in this repository. It should be published from the shared codebase, with Alisha and Qandeel, rather than copied here as if one person wrote it.
+The application source is in the team repository linked above. This repository holds the front page and the pitch deck.
+
+## Contributors
+
+- Hifsa Qamar — frontend and UI/UX
+- Qandeel Fatima — backend
+- Alisha Javed — frontend
